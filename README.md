@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaurya Vardhan Kala</h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub page</h1>
 <h3 align="center">I am Shaurya Vardhan Kala, I am trying to learn to code because I find it fun and a good way to earn money. I am still trying to figure things out, so yeah be patient 😎. I will update this when i get some more good achievements.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Updating soon</h3>
 <p align="left">
 </p>
 
